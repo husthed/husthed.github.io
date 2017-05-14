@@ -1,4 +1,13 @@
-## 老去的程序员
+# 老去的程序员
+
+## CentOS
+### Install EPEL
+#### EPEL: Extra Packages for Enterprise Linux
+#### Install
+````
+yum -y install epel-release
+````
+
 
 You can use the [editor on GitHub](https://github.com/husthed/husthed.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
