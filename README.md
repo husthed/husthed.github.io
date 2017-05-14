@@ -1,6 +1,6 @@
 # 老去的程序员
 
-# [CentOS](https://github.com/husthed/hesthed.github.io/edit/master/OS/CentOS.md)
+# [CentOS](https://github.com/husthed/hesthed.github.io/OS/CentOS.md)
 ### Install EPEL
 #### EPEL: Extra Packages for Enterprise Linux
 #### Install
