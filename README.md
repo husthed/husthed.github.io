@@ -7,6 +7,4 @@
   <frame src="https://husthed.github.io/OS/CentOS"></frame>
 </frameset>
 
-<iframe seamless src="https://husthed.github.io/OS/CentOS"></iframe>
-
 </html>
