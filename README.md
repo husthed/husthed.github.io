@@ -1,4 +1,4 @@
-<iframe src="https://husthed.github.io/OS/CentOS"></iframe>
+<iframe seamless src="https://husthed.github.io/OS/CentOS"></iframe>
 
 <iframe src="https://husthed.github.io/OS/CentOS"></iframe>
 
