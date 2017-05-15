@@ -1,1 +1,1 @@
-# Install EPEL
+# [Install EPEL](/OS/CentOS/EPEL)
