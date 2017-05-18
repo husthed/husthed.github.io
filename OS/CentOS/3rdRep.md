@@ -23,8 +23,8 @@ sudo yum localinstall --nogpgcheck https://download1.rpmfusion.org/free/el/rpmfu
 
 These three methods can be used in RHEL 7, CentOS 7 and SL(Scientific Linux) 7.
 
-[See Also]
-(http://linuxg.net/how-to-add-the-remi-epel-and-rpmfusion-repositories-on-centos-7/)
-(https://rpmfusion.org/Configuration)
-http://rpms.remirepo.net/
-https://wiki.centos.org/AdditionalResources/Repositories
+See Also
+* [](http://linuxg.net/how-to-add-the-remi-epel-and-rpmfusion-repositories-on-centos-7/)
+* [](https://rpmfusion.org/Configuration)
+* []http://rpms.remirepo.net/
+* []https://wiki.centos.org/AdditionalResources/Repositories
