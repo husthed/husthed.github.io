@@ -1,5 +1,5 @@
 # Plugins
-## [Vundle](/Vim/Plugins/Vundle)
-## [Vim-surround](/Vim/Plugins/Vim-surround)
+## [Vundle](/Vim/Plugin/Vundle)
+## [Vim-surround](/Vim/Plugin/Vim-surround)
 
 [Back to Home](https://husthed.github.io)
