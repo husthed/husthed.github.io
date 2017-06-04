@@ -3,7 +3,7 @@
 # [Vim](/Vim/vim)
 
 |Command|Descript|Example|Old Text|Result|
-|:------|:-------|:------|:-------|:-----|
+|-------|--------|-------|--------|------|
 |ds|Delete surroundings|ds"|"Hello world!"|Hello world!|
 |  |                   |ds)|(123+456)/2|123+456/2|
 |  |                   |dst|\<div\>Yo!\</div\>|Yo!|
