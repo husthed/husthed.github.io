@@ -22,6 +22,7 @@ Surround.vim is all about "surroundings": parentheses, brackets, quotes, XML tag
 |vS/vgS|
 
 ### Targets
+
 |marks|alias|explain|
 |-----|-----|-------|
 |(|
