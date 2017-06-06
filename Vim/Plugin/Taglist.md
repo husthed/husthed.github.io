@@ -6,6 +6,7 @@ The "Tag List" plugin is a source code browser plugin for Vim. It is no useful f
 ## [How to use](https://github.com/vim-scripts/taglist.vim)
 
 ### Keys for taglist window
+
 |Key|Description|
 |-------|--------|
 |\<CR\>|Jump to the location where the tag under cursor is defined.|
