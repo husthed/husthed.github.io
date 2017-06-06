@@ -2,7 +2,7 @@
 ## Source code
 https://github.com/vim-scripts/taglist.vim
 ## Description
-The "Tag List" plugin is a source code browser plugin for Vim.
+The "Tag List" plugin is a source code browser plugin for Vim. It is no useful for auto completion.
 ## [How to use](https://github.com/vim-scripts/taglist.vim)
 
 ### Keys for taglist window
