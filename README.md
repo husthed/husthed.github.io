@@ -37,7 +37,9 @@ here your_emaie is your email address.
 ```bash
 ssh -T git@github.com
 ```
-If 
+    
+if the message as following,
+
 ```
 The authenticity of host 'github.com (192.30.255.113)' can't be established.
 RSA key fingerprint is xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -45,12 +47,13 @@ Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
 Hi YYYYYY! You've successfully authenticated, but GitHub does not provide shell access.
 ```
-now you can connect with Github.
+
+it indicates you can connect with Github.
+
 * Config
 ```bash
-# 将修改提交到本地仓库
+# set user name and email
 git config --global user.name "your_name"
-# 将本地修改提交到github
 git config --global user.email "your_email"
 ```
 * Clone
@@ -63,7 +66,9 @@ git clone git_address
 
 After some modifications, we need to commit it to github as following
 ```bash
+# add modification to local reposity
 git commit -m "your_message" your_modified_files
+# push local modification to github 
 git push origin master
 ```
 See Also
@@ -129,3 +134,5 @@ cd $VM_TOOLS_DIR/
 ./vmware-install.pl
 ```
 All is ready now!
+
+* [Centos 7.3安裝vmtools](http://www.cnblogs.com/chenfool/p/6808245.html)
