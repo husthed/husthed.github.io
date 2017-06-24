@@ -29,4 +29,4 @@ See Also
 * http://rpms.remirepo.net/
 * https://wiki.centos.org/AdditionalResources/Repositories
 
-[Back to Home](https://husthed.github.io) [Upper Level](/OS/CentOS)
+[Back to Home](https://husthed.github.io) [CentOS](/OS/CentOS)
